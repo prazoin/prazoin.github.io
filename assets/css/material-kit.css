@@ -2820,6 +2820,7 @@ select.form-control[multiple],
     line-height: 30px;
     color: inherit;
     padding: 10px 15px;
+    font-weight: bold;
 }
 
 .navbar .navbar-brand:hover, .navbar .navbar-brand:focus {
@@ -9234,8 +9235,9 @@ select.selectpicker {
 
 .product-page .tab-content img {
     border-radius: 3px;
-    max-width: 300px;
+    max-width: 500px;
     height: auto;
+    max-height: 400px;
 }
 
 .product-page .main-price {
@@ -9279,6 +9281,7 @@ select.selectpicker {
     border-radius: 3px;
     width: 100%;
     height: auto;
+    max-height: 50px;
     text-align: center;
 }
 
